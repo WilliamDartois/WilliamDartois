@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics and sequencing technologies.
 - 🌱 I'm curious about web development and web design. 
 
--   I’m currently intern at the bioinformatic platform of the labex cortex, in Lyon, France. 
+-   I’m currently intern at the bioinformatic platform of the labex cortex, Lyon, France. 
 - 📫 How to reach me : william.dartois7@gmail.com
 
 <!---
