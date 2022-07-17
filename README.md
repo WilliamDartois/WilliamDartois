@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilliamDartois !
 
 - 🧬 I’m interested in bioinformatics and sequencing technologies.
-- 👨‍💼 I’m currently intern at the bioinformatic platform of the labex cortex, Lyon, France.
+- 👨‍💼 I'm currently looking for a new job in the field of bioinformatics.
 - 🤔 I'm curious about web development and web design. 
  
 - 📫 How to reach me : william.dartois7@gmail.com
