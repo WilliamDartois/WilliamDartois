@@ -2,7 +2,7 @@
 
 - 🧬 I’m interested in bioinformatics and sequencing technologies.
 - 👨‍💼 I'm currently looking for a new job in the field of bioinformatics.
-- 🤔 I'm curious about web development and web design. 
+- 🤔 I'm curious about app/web development and app/web design. 
  
 - 📫 How to reach me : william.dartois7@gmail.com
 
